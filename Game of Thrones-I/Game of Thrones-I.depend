@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419052398 source:d:\codeblocks\c\game of thrones-i\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

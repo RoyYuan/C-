@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411728303 source:d:\codeblocks\c\sherlock and gcd\main.c
+	<stdio.h>
+	<stdlib.h>
+

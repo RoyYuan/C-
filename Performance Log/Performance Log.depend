@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1442580978 source:d:\codeblocks\c\performance log\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<string>
+	<algorithm>
+	<map>
+	<vector>
+	<stack>
+	<queue>
+

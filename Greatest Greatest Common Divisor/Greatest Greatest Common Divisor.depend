@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429361998 source:d:\codeblocks\c\greatest greatest common divisor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

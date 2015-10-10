@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419233511 source:d:\codeblocks\c\m进制转十进制\main.c
+	<stdio.h>
+	<stdlib.h>
+

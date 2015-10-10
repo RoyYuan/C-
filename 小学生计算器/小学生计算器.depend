@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430751070 source:d:\codeblocks\c\小学生计算器\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429359651 source:d:\codeblocks\c\four inages strategy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

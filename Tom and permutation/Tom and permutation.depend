@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431174859 source:d:\codeblocks\c\tom and permutation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

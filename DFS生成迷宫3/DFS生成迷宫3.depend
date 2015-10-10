@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1443534682 source:d:\codeblocks\c\dfsÉú³ÉÃÔ¹¬3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+

@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    unsigned long long int K,c,m;
+    int N,n,r,s=0,i,j;
+    scanf("%d %ld",&N,&K);
+    for(n=1;n<=N;n++)
+    {
+        for(r=1;r<=n;r++)
+        {
+            c=1;
+            for(i=n-r+1;i<=n;i++)
+            {
+                c*=i;
+            }
+            for(j=1;j<=r;j++)
+            {
+                c/=j;
+            }
+            m=c-K;
+            printf("%lld ",m);
+            if(m>0)
+            {
+                s++;
+            }
+        }
+    }
+    printf("%d",s);
+    return 0;
+}

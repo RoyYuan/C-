@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427020122 source:d:\codeblocks\c\topoisicai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

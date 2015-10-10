@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443507981 source:d:\codeblocks\c\horse and board\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

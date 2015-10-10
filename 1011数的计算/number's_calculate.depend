@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421395651 source:d:\c\number's_calculate\main.c
+	<stdio.h>
+	<stdlib.h>
+

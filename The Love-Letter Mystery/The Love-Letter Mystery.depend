@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418806842 source:d:\codeblocks\c\the love-letter mystery\main.c
+	<stdio.h>
+	<stdlib.h>
+

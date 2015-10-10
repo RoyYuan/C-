@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411889285 source:d:\codeblocks\c\multiples of 3 and 5\main.c
+	<stdio.h>
+	<stdlib.h>
+

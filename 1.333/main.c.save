@@ -1,0 +1,17 @@
+//从键盘上输入三个值，求其中最大值
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    double x[3],t;
+    int i;
+    printf("请输入三个数：\n");
+    for(i=0;i<3;i++)
+    {
+        scanf("%d",&x[i]);
+    }    
+    for(i=0;i<3;i++)
+    
+    return 0;
+}

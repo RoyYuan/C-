@@ -1,0 +1,11 @@
+//将分钟数转换为小时和分钟
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int min,h,m;
+    printf("请输入分钟数：\n");
+    scanf("%d",&)
+    return 0;
+}

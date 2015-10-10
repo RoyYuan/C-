@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432383299 source:d:\codeblocks\c\happy birthday\main.cpp
+	<stdio.h>
+	<string.h>
+

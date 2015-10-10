@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+int main()
+{
+    double x=2.0,y=3.0;
+    printf()
+    return 0;
+}

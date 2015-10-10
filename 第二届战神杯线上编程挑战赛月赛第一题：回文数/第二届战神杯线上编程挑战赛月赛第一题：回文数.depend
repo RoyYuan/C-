@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430750359 source:d:\codeblocks\c\第二届战神杯线上编程挑战赛月赛第一题：回文数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
